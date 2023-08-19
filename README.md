@@ -1,2 +1,2 @@
 # Pointers
-Pointers in C
+Pointers in C/C++
